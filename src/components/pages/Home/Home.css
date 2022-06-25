@@ -4,6 +4,7 @@
   font-style: italic;
   padding: 5%;
   font-weight: 500;
+  align-items: center;
 }
 .para {
   display: flex;
