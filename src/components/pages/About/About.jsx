@@ -4,7 +4,7 @@ export default function About() {
   return (
     <>
       <div className="container mt-4">
-        <h3>About Page</h3>
+        <h3 className="about">About Page</h3>
         <p>
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
